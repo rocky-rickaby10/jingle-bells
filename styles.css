@@ -1,0 +1,36 @@
+html, body {
+	font-family: "Comic Sans MS";
+	text-align: center;
+	padding: 20px;
+}
+
+a:link, a:visited {
+	color: #0000ee;
+	text-decoration: none;
+}
+
+pre {
+	font-family: "Comic Sans MS";
+	text-align: center;
+	line-height: 1.5;
+}
+
+.button {
+	background-color: #04AA6D;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	display: block;
+	margin: auto;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.button:hover {
+	background-color: #018a58;
+}
+
+#comment {
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
